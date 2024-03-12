@@ -1,0 +1,20 @@
+[
+  {
+    "MountId": "56e62dd7-241f-41e9-8c6b-dd4ca4513e62",
+    "AncestorCsetIds": [
+      9
+    ],
+    "SourceCsetId": 11,
+    "DestinationCsetId": 9,
+    "FileConflicts": [
+      {
+        "Path": "/Assets/XR/Settings/OpenXR Package Settings.asset",
+        "ItemId": 174,
+        "ParentItemId": 172,
+        "BaseRevId": 929,
+        "SourceRevId": 34645,
+        "DestinationRevId": 929
+      }
+    ]
+  }
+]
